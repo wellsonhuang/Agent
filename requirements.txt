@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-playwright
-beautifulsoup4
-transformers
-torch
-requests
-jinja2
-python-multipart
